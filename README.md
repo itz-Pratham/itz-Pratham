@@ -58,5 +58,6 @@
 <a href="https://github.com/itz-Pratham/Spotify-Clone">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=Spotify-Clone&theme=dark)</a>
 <a href="https://github.com/itz-Pratham/Aura">![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=Aura&theme=dark)</a>
 <a href="https://github.com/itz-Pratham/WeatherApp">![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=WeatherApp&theme=dark)</a>
+<a href="https://github.com/itz-Pratham/Calculator">![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=Calculator&theme=dark)</a>
 
 <!--**itz-Pratham/itz-Pratham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
