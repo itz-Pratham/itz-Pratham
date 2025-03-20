@@ -57,7 +57,7 @@
 
 <a href="https://github.com/itz-Pratham/Sentiment_Analysis_Amazon">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=Sentiment_Analysis_Amazon&theme=dark)</a>
 <!-- <a href="https://github.com/itz-Pratham/Transaction_Analysis">![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=Transaction_Analysis&theme=dark)</a> -->
-<a href="https://github.com/itz-Pratham/A2Z-DSA-Sheet-Solution">![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=A2Z-DSA-Sheet-Solution&theme=dark)</a>
+<a href="https://github.com/itz-Pratham/A2Z-DSA-Sheet-Solution">![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=A2Z-DSA-Sheet-Solution&theme=dark)</a>
 <!--<a href="https://github.com/itz-Pratham/EventVerse">![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=EventVerse&theme=dark)</a>-->
 
 <!--**itz-Pratham/itz-Pratham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
