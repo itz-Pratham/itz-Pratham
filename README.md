@@ -1,7 +1,7 @@
 ![logo](https://github.com/itz-Pratham/itz-Pratham/blob/main/Gitbub%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Pratham Mittal</h1>
-<h3 align="center">A passionate frontend developer from India</h3><br/>
+<h3 align="center">An aspiring software engineer from India</h3><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/itz-Pratham/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/itz-Pratham)
@@ -15,11 +15,11 @@
 ![Profile views](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-Pratham&theme=dark)
 
 ## Quick Overview
-- 🌱 I’m currently learning **Backend-Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Pratham_Mittal_1](https://linktr.ee/Pratham_Mittal_1)
 
-- 💬 Ask me about **ReactJS, JavaScript, C++**
+- 💬 Ask me about **Machine Learning, NLP, Computer Vision, C++**
 
 - 📫 How to reach me **prathammittal355@gmail.com**
 
@@ -35,14 +35,14 @@
 
 ### Backend Development
 - **Languages:** C, C++, Python
-- **Frameworks/Libraries:** React, Bootstrap, Numpy (Python)
-- **API Development:** ExpressJS Framework
+- **Frameworks/Libraries:** React, Bootstrap, Scikit-Learn, Tensorflow, Keras
+- **IT Constructs:** OOPS, Data Structures, Machine Learning, NLP
 - **Database:** MongoDB, MySQL
 
 ### Tools & Environment
 - **Version Control:** Git/GitHub
 - **IDE:** Visual Studio Code
-- **Backend:** NodeJS
+- **Backend:** NodeJS, Flask
 - **Graphics:** Figma, Canva
 <br/>
 
@@ -55,9 +55,9 @@
 
 ## My most interesting projects
 
-<a href="https://github.com/itz-Pratham/Spotify-Clone">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=Spotify-Clone&theme=dark)</a>
-<a href="https://github.com/itz-Pratham/Aura">![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=Aura&theme=dark)</a>
-<a href="https://github.com/itz-Pratham/WeatherApp">![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=WeatherApp&theme=dark)</a>
-<a href="https://github.com/itz-Pratham/Calculator">![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=Calculator&theme=dark)</a>
+<a href="https://github.com/itz-Pratham/Sentiment_Analysis_Amazon">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=Sentiment_Analysis_Amazon&theme=dark)</a>
+<a href="https://github.com/itz-Pratham/Transaction_Analysis">![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=Transaction_Analysis&theme=dark)</a>
+<a href="https://github.com/itz-Pratham/A2Z-DSA-Sheet-Solution">![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=A2Z-DSA-Sheet-Solution&theme=dark)</a>
+<a href="https://github.com/itz-Pratham/EventVerse">![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=itz-Pratham&repo=EventVerse&theme=dark)</a>
 
 <!--**itz-Pratham/itz-Pratham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
